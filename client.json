@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fifth-cab-381220",
+  "private_key_id": "1bea638b433d88db1752fddc57bb715b535d41bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIsC30CbBoeGAr\ngCv47Q/0S2fRFeC4InrthQzBD7kY0svIg897e8KEZ1kHG30ff43N+d2wOmQhQRTg\neOm39QZlaAGTYla9bh0hBwTwyfTjZfHkNTGUyGGJnPqIHdFT4tufkIpThBvILotU\ncxYHC3tiYlt64BwwZorKI9wTQXnrbkYW8suO/0+XRxTReZ0YViCYBKTO8flDeCDC\nnKUDdRKpBUSiqM5LARH8HrzkOzfB0gzLs8/jHyUTPCyPjnMoGhdLr5l+MJsiXWjL\nMwiVFg4HZmUAxG97w/S5Bkgfh9gwX30fEWrYiSz8L5cWh6Qjn9r2Ez4xvo5WcXrP\nCqaIypL5AgMBAAECggEAP5tTXUMK5fmtJWxww2tDgL67j1HbUREgnBJs6e3VUTBS\nhWF9i9o8WyG0XmPQgwC3DZ8Rq+692Kpbdw/rp7Hhzpcp1LA45L43PkYOw1CHLOGd\nSqKvbcQa4fZek3C77VX8HPU/WlwHQCm8YE4/n4j8mMCq1OWeGZsOhyXZdULt5PeV\nO32wNAtP1ngh8XAgb0j5JLDQjfwdeYdbtKwiSq+I0Bfc5uM8CpOac3XpHxl0X/JG\nlKiAYeZ7SOtJiOTg0tRqJPVhpYxPoJaHEMcwKbWas0H7gUVF0z3+B+n5WaXHbaOI\nFmfB5IqgFRrhOTLnk2SuZu3m9ptgRk3fqnu12uSrvwKBgQDqwHrD5p8QlcZSMBFW\nfHaxWpB1DkDXBhdyVJLMrYVjRQRBpyfgfElMpBAa0xEIN6ii9lhwT9fgwpfGL5IQ\nz8rD0rLdBnNgy1DtJpsCwahkGPgexfwdBucd1XjT5QxGWhd1bYgFdPhcpXZph7HJ\nljz4zQRgr70fgyZ+TTW5EP6EMwKBgQDa2mX3QcrJkuV6UkINfeA6+DCzRVCL6K9p\n/0qw95AdO1yKSnjAoL7R+D9hxpgPRN1umpYOa04nbWtQIgy+Cx47PnnaogzLEAnu\nDe3L4IHzf5yvenj2g9Oyhr+X41vQgJuITrOfX1T7jVPvBBJD8su/6LUrFbSQ42Y5\nWvlPz4eAIwKBgAQ8yzqEDDUBbx4Grhlwj7ft2ZOzWSpIet3edvPo4fKDyWrh+I9N\nzwjqITxKuRD76Dhg2AHW/x+Yg6LZMvrItXFJeV8SAb0qjmBphPzMwBxmcvwjOMTR\nXhSkyNSSWuFeOPQusPjgPqd1eSi4gVYRNzKKiNyx72kFNgmrnR+lFeMPAoGBANAo\nNh+tBjIfdACaSJUIisPL2JZKcUgBcwaAeQxFC1+iXGx0VNHykkynr7FR8MNlHq/a\nfKsOSPGbUxyOpkwDyydSTxgyVbS2dptjyC/IRBHT6LXG6VKfJDWDkKvo5iU0jbpi\nENqfE/eG/rQxzSWvwzevINHv/SRqBYq8CrFslFa9AoGACpWY9baM4ZnRrTGtiT4T\nW5K75rV3PzHpVgMk+Dld6utCNwnL93nFsaCs76u7WJ4SEH2NEA+tSNRhOvUDp+6s\n2Celv4DoCz33NJGKmHH3XHx2QqBY5fPgiSwRs+R9Im9AII5633TSnjyN5zRJl84B\nNpg5QKyuFddvzFhDiBSw2wE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kanban@fifth-cab-381220.iam.gserviceaccount.com",
+  "client_id": "117092956014721966253",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kanban%40fifth-cab-381220.iam.gserviceaccount.com"
+}
